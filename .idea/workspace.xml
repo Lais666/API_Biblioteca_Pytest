@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a824811-eecf-4b8d-a2b0-a32f988c721b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2f40igfMDPMNHz9SLTNF3uFVp2E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/SN1089702/PycharmProjects/CRUDFirebird",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="APIbibliotecaSMVC" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a824811-eecf-4b8d-a2b0-a32f988c721b" name="Changes" comment="" />
+      <created>1713045171553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713045171553</updated>
+      <workItem from="1713045172620" duration="1044000" />
+      <workItem from="1713046226636" duration="170000" />
+      <workItem from="1713046409627" duration="268000" />
+      <workItem from="1713046697498" duration="60000" />
+      <workItem from="1713046782764" duration="288000" />
+      <workItem from="1713047094070" duration="8045000" />
+      <workItem from="1713177681350" duration="4879000" />
+      <workItem from="1713554229595" duration="1342000" />
+      <workItem from="1713710882182" duration="3405000" />
+      <workItem from="1713784043105" duration="246000" />
+      <workItem from="1713785710485" duration="6281000" />
+      <workItem from="1713813162279" duration="7000" />
+      <workItem from="1713813384578" duration="12000" />
+      <workItem from="1714245855535" duration="3663000" />
+      <workItem from="1714331594553" duration="1598000" />
+      <workItem from="1714386850799" duration="66000" />
+      <workItem from="1714387041989" duration="10000" />
+      <workItem from="1714419453023" duration="800000" />
+      <workItem from="1714498307886" duration="3119000" />
+      <workItem from="1714503906771" duration="31000" />
+      <workItem from="1717607495490" duration="21000" />
+      <workItem from="1717607528931" duration="375000" />
+      <workItem from="1717608012023" duration="1452000" />
+      <workItem from="1717609874258" duration="9000" />
+      <workItem from="1718044612509" duration="2450000" />
+      <workItem from="1718047662327" duration="3204000" />
+      <workItem from="1718051084707" duration="43000" />
+      <workItem from="1718103698818" duration="16000" />
+      <workItem from="1718111477918" duration="267000" />
+      <workItem from="1718129486210" duration="234000" />
+      <workItem from="1718129823359" duration="5523000" />
+      <workItem from="1718192188605" duration="1680000" />
+      <workItem from="1718193938655" duration="75000" />
+      <workItem from="1718194062322" duration="8000" />
+      <workItem from="1718194079822" duration="24000" />
+      <workItem from="1718194200579" duration="9000" />
+      <workItem from="1718197006928" duration="1587000" />
+      <workItem from="1718198942722" duration="2443000" />
+      <workItem from="1718201424835" duration="7782000" />
+      <workItem from="1718220765484" duration="3237000" />
+      <workItem from="1718283241179" duration="136000" />
+      <workItem from="1718284206943" duration="672000" />
+      <workItem from="1718296746651" duration="3330000" />
+      <workItem from="1718361587021" duration="9464000" />
+      <workItem from="1718372061382" duration="4827000" />
+      <workItem from="1718383663656" duration="1263000" />
+      <workItem from="1718385246532" duration="644000" />
+      <workItem from="1718632360273" duration="61000" />
+      <workItem from="1718796941087" duration="4183000" />
+      <workItem from="1718973640049" duration="128000" />
+      <workItem from="1718975121870" duration="2512000" />
+      <workItem from="1719404548786" duration="16000" />
+      <workItem from="1719405684021" duration="20000" />
+      <workItem from="1719409267709" duration="3838000" />
+      <workItem from="1719423065009" duration="629000" />
+      <workItem from="1719484539728" duration="19000" />
+      <workItem from="1722001279948" duration="1311000" />
+      <workItem from="1722282952010" duration="45000" />
+      <workItem from="1722370216882" duration="46000" />
+      <workItem from="1722423388250" duration="38000" />
+      <workItem from="1722423835020" duration="477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/APIbiblioteca_Pytest$main.coverage" NAME="main Coverage Results" MODIFIED="1722370233892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/APIbibliotecaSMVC$main.coverage" NAME="main Coverage Results" MODIFIED="1718804082064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
